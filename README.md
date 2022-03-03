@@ -5,7 +5,7 @@
 A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to code intelligence, which is about leverages machine learning and data mining techniques to mine knowledge from large-scale code corpus by developing intelligent tools to improve the quality and productivity of computer programming.
 
 ## Related Survey
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         |Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2018 | [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/abs/1709.06182) |Allamanis et al.|CSUR| [Code](https://ml4code.github.io/)                 | <center>Y</center> |
 | 2021 | [A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research](https://arxiv.org/abs/2009.06520) |Watson et al.|TOSEM| [Code](http://wm-semeru.github.io/dl4se/)                 | <center>Y</center> |
@@ -17,7 +17,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 ## Code Representation
 
 ### *Code Tokens*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         |  |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2017 | [Synthesizing benchmarks for predictive modeling](https://ieeexplore.ieee.org/document/7863731) |Cummins et al.|CGO| [Code](https://github.com/ChrisCummins/clgen)                 | <center>Y</center> |
 | 2015 | [Toward deep learning software repositories](https://dl.acm.org/doi/10.5555/2820518.2820559) |White et al.|ICSE| Code                 | <center>Y</center> |
@@ -30,7 +30,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2020 | [Big code!= big vocabulary: Open-vocabulary models for source code](https://arxiv.org/abs/2003.07914) |Karampatsis et al.|ICSE| [Code](https://github.com/mast-group/OpenVocabCodeNLM)                 | <center>Y</center> |
 
 ### *API*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2015 | [How can I use this method?](https://dl.acm.org/doi/10.5555/2818754.2818860) |Moreno et al.|ICSE| Code                 | <center>Y</center> |
 | 2017 | [An unsupervised approach for discovering relevant tutorial fragments for APIs](https://dl.acm.org/doi/10.1109/ICSE.2017.12) |Jiang et al.|ICSE| Code                 | <center>Y</center> |
@@ -40,7 +40,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2019 | [SAR: learning cross-language API mappings with little knowledge](https://arxiv.org/abs/1906.03835) |Bui et al.|FSE| [Code](https://github.com/bdqnghi/SAR_API_mapping)                 | <center>Y</center> |
 
 ### *AST*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2016 | [Convolutional neural networks over tree structures for programming language processing](https://dl.acm.org/doi/10.5555/3015812.3016002) |Mou et al.|AAAI| [Code](https://sites.google.com/site/treebasedcnn/)                 | <center>Y</center> |
 | 2020 | [Modeling programs hierarchically with stack-augmented LSTM](https://arxiv.org/abs/2002.04516) |Liu et al.|JSS| Code                 | <center>Y</center> |
@@ -53,7 +53,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2018 | [Tree-to-tree neural networks for program translation](https://arxiv.org/abs/1802.03691) |Chen et al.|ICLR| Code                 | <center>Y</center> |
 
 ### *IR*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2018 | [Neural code comprehension: A learnable representation of code semantics](https://arxiv.org/abs/1806.07336) |Ben et al.|Neurips| Code                 | <center>Y</center> |
 | 2020 | [IR2Vec: LLVM IR based Scalable Program Embeddings](https://arxiv.org/abs/1909.06228) |Venkatakeerthy et al.|TACO| Code                 | <center>Y</center> |
@@ -63,7 +63,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 
 
 ### *Code Graphs*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2018 | [Learning to represent programs with graphs](https://arxiv.org/abs/1711.00740) |Allamanis et al.|ICLR| Code                 | <center>Y</center> |
 | 2017 | [Smartpaste: Learning to adapt source code](https://arxiv.org/abs/1705.07867) |Allamanis et al.|arXiv| Code                 | <center>Y</center> |
@@ -76,7 +76,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2020 | [Exploiting Code Knowledge Graph for Bug Localization via Bi-directional Attention](https://dl.acm.org/doi/abs/10.1145/3387904.3389281) |Zhang et al.|ICPC| Code                 | <center>Y</center> |
 
 ### *Other Features of Code*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2018 | [Code vectors: Understanding programs through embedded abstracted symbolic traces](https://arxiv.org/abs/1803.06686) |Henkel et al.|FSE| [Code](https://github.com/jjhenkel/code-vectors-artifact)                 | <center>Y</center> |
 | 2019 | [Learning to Represent Edits](https://arxiv.org/abs/1810.13337) |Yin et al.|ICLR| [Code](https://github.com/Microsoft/msrc-dpu-learning-to-represent-edits)                 | <center>Y</center> |
@@ -88,7 +88,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2021 | [Learning Structural Edits via Incremental Tree Transformations](https://arxiv.org/abs/2101.12087) |Yao et al.|ICLR| Code                 | <center>Y</center> |
 
 ### *Hybrid*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2018 | [Deep code search](https://dl.acm.org/doi/10.1145/3180155.3180167) |Gu et al.|ICSE| [Code](https://github.com/guxd/deep-code-search)                 | <center>Y</center> |
 | 2016 | [Deep learning code fragments for code clone detection](https://dl.acm.org/doi/10.1145/2970276.2970326) |White et al.|ASE| Code                 | <center>Y</center> |
@@ -99,7 +99,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 
 ## Application
 ### *Code Classification*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2016 | [Convolutional neural networks over tree structures for programming language processing](https://arxiv.org/abs/1409.5718) |Mou et al.|AAAI| [Code](https://sites.google.com/site/treebasedcnn/)                 | <center>Y</center> |
 | 2018 | [Adapting neural text classification for improved software categorization](https://ieeexplore.ieee.org/document/8530052) |Leclair et al.|ICSME| Code                 | <center>Y</center> |
@@ -108,7 +108,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2020 | [SCC++: predicting the programming language of questions and snippets of Stack Overflow](https://www.sciencedirect.com/science/article/abs/pii/S0164121219302791) |Alrashedy et al.|JSS| [Code](https://github.com/Kamel773/SourceCodeClassification-201)                 | <center>Y</center> |
 
 ### *Vulnerability Detection and Bug Finding*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2016 | [Automatically Learning Semantic Features for Defect Prediction](https://ieeexplore.ieee.org/abstract/document/7886912) |Wang et al.|ICSE| Code                 | <center>Y</center> |
 | 2017 | [Software defect prediction via convolutional neural network](https://ieeexplore.ieee.org/abstract/document/8009936) |Li et al.|QRS| Code                 | <center>Y</center> |
@@ -131,7 +131,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2021 | [Learning to find naming issues with big code and small supervision](https://dl.acm.org/doi/abs/10.1145/3453483.3454045) |He et al.|PLDI| Code                 | <center>Y</center> |
 
 ### *Code Completion*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2014 | [Code completion with statistical language models](https://dl.acm.org/doi/10.1145/2666356.2594321) |Raychev et al.|PLDI| Code                 | <center>Y</center> |
 | 2017 | [Neural code completion](https://openreview.net/forum?id=rJbPBt9lg) |Liu et al.|ICLR| Code                 | <center>Y</center> |
@@ -150,7 +150,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2018 | [A Retrieve-and-Edit Framework for Predicting Structured Outputs](https://arxiv.org/abs/1812.01194) |Hashimoto et al.|NIPS| [Code](https://worksheets.codalab.org/worksheets/0x1ad3f387005c492ea913cf0f20c9bb89/)                 | <center>Y</center> |
 
 ### *Type Inference*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2018 | [MaxSMT-based type inference for Python 3](https://link.springer.com/chapter/10.1007/978-3-319-96142-2_2) |Hassan et al.|CAV| Code                 | <center>Y</center> |
 | 2004 | [Faster than C: Static type inference with Starkiller](http://michael.salib.com/writings/talks/Pycon2004/paper.pdf) |Salib et al.|PyCon Proceedings| Code                 | <center>Y</center> |
@@ -165,7 +165,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2021 | [Type4Py: Deep Similarity Learning-Based Type Inference for Python](https://arxiv.org/abs/2101.04470) |Mir et al.|arXiv| [Code](https://github.com/saltudelft/type4py)                 | <center>Y</center> |
 
 ### *Code Search*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2015 | [Codehow: Effective code search based on api understanding and extended boolean model (e)](https://ieeexplore.ieee.org/abstract/document/7372014) |Lv et al.|ASE| Code                 | <center>Y</center> |
 | 2016 | [Relationship-aware code search for JavaScript frameworks](https://dl.acm.org/doi/abs/10.1145/2950290.2950341) |Li et al.|FSE| Code                 | <center>Y</center> |
@@ -181,7 +181,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2021 | [Interactive Cross-language Code Retrieval with Auto-Encoders](https://ieeexplore.ieee.org/abstract/document/9678929) |Chen et al.|ASE| Code                 | <center>Y</center> |
 
 ### *Code Clone Detection*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2002 | [CCFinder: A multilinguistic token-based code clone detection system for large scale source code](https://ieeexplore.ieee.org/abstract/document/1019480) |Kamiya et al.|TSE| Code                 | <center>Y</center> |
 | 2008 | [NICAD- Accurate Detection of Near-Miss Intentional Clones Using Flexible Pretty-Printing and Code Normalization](https://ieeexplore.ieee.org/abstract/document/4556129) |Roy et al.|ICPC| Code                 | <center>Y</center> |
@@ -199,7 +199,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2018 | [Deep Learning Similarities from Different Representations of Source Code](https://ieeexplore.ieee.org/abstract/document/8595238) |Tufano et al.|MSR| [Code](https://github.com/micheletufano/AutoenCODE)                 | <center>Y</center> |
 
 ### *Code Summarization*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2010 | [Supporting program comprehension with source code summarization](https://ieeexplore.ieee.org/abstract/document/6062165) |Haiduc et al.|ICSE| Code                 | <center>Y</center> |
 | 2013 | [Autocomment: Mining question and answer sites for automatic comment generation](https://ieeexplore.ieee.org/abstract/document/6693113) |Wong et al.|ASE| Code                 | <center>Y</center> |
@@ -234,7 +234,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2021 | [Automating the removal of obsolete TODO comments](https://arxiv.org/abs/2108.05846) |Gao et al.|FSE| Code                 | <center>Y</center> |
 
 ### *Program Translation*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2013 | [Lexical statistical machine translation for language migration](https://dl.acm.org/doi/abs/10.1145/2491411.2494584) |Nguyen et al.|FSE| Code                 | <center>Y</center> |
 | 2015 | [Using machine translation for converting python 2 to python 3 code](https://peerj.com/preprints/1459/) |Aggarwal et al.|Technical Report| Code                 | <center>Y</center> |
@@ -244,7 +244,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2020 | [Unsupervised translation of programming languages](https://arxiv.org/abs/2006.03511) |Lachaux et al.|NeurIPS| Code                 | <center>Y</center> |
 
 ### *Program Synthesis*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2006 | [Learning for semantic parsing with statistical machine translation](https://aclanthology.org/N06-1056/) |Wong et al.|NAACL| Code                 | <center>Y</center> |
 | 2015 | [Language to code: Learning semantic parsers for if-this-then-that recipes](https://aclanthology.org/P15-1085/) |Quirk et al.|ACL| Code                 | <center>Y</center> |
@@ -276,7 +276,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2019 | [CoSQL: A conversational text-to-SQL challenge towards cross-domain natural language interfaces to databases](https://arxiv.org/abs/1909.05378) |Yu et al.|EMNLP| [Code](https://yale-lily.github.io/cosql)                 | <center>Y</center> |
 
 ### *Program Repair*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2016 | [Automated Correction for Syntax Errors in Programming Assignments using Recurrent Neural Networks](https://arxiv.org/abs/1603.06129) |Bhatia et al.|arXiv| Code                 | <center>Y</center> |
 | 2018 | [Syntax and Sensibility: Using language models to detect and correct syntax errors](https://ieeexplore.ieee.org/abstract/document/8330219) |Santos et al.|SANER| Code                 | <center>Y</center> |
@@ -307,7 +307,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2019 | [Learning to optimize halide with tree search and random programs](https://dl.acm.org/doi/abs/10.1145/3306346.3322967) |Adams et al.|TOG| Code                 | <center>Y</center> |
 
 ### *Code Optimization*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2018 | [Learning to optimize tensor programs](https://proceedings.neurips.cc/paper/2018/hash/8b5700012be65c9da25f49408d959ca0-Abstract.html) |Chen et al.|NeurIPS| Code                 | <center>Y</center> |
 | 2020 | [FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System](https://dl.acm.org/doi/abs/10.1145/3373376.3378508) |Zheng et al.|ASPLOS| [Code](https://github.com/KnowingNothing/FlexTensor)                 | <center>Y</center> |
@@ -315,7 +315,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2013 | [Predictive modeling in a polyhedral optimization space](https://link.springer.com/article/10.1007/s10766-013-0241-1) |Park et al.|IJPL| Code                 | <center>Y</center> |
 
 ### *Other Applications*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2021 | [ProGraML: Graph-based Deep Learning for Program Optimization and Analysis](https://arxiv.org/abs/2003.10536) |Cummins et al.|ICML| Code                 | <center>Y</center> |
 | 2020 | [Deep program structure modeling through multi-relational graph-based learning](https://dl.acm.org/doi/abs/10.1145/3410463.3414670) |Ye et al.|PACT| [Code](https://github.com/yeguixin/POEM)                 | <center>Y</center> |
@@ -324,7 +324,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2018 | [Large-scale and language-oblivious code authorship identification](https://dl.acm.org/doi/abs/10.1145/3243734.3243738) |Abuhamad et al.|CCS| Code                 | <center>Y</center> |
 
 ## Dataset
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2019 | [Codesearchnet challenge: Evaluating the state of semantic code search](https://arxiv.org/abs/1909.09436) |Husain et al.|arXiv| [Code](https://github.com/github/CodeSearchNet)                 | <center>Y</center> |
 | 2021 | [CoSQA: 20,000+ Web Queries for Code Search and Question Answering](https://arxiv.org/abs/2105.13239) |Huang et al.|ACL| [Code](https://github.com/microsoft/CodeXGLUE/tree/main/Text-Code/NL-code-search-WebQuery)                 | <center>Y</center> |
@@ -350,14 +350,14 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 ## CHALLENGES AND OPPORTUNITIES
 
 ### *Comprehensive Code Representation*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2019 | [Open Vocabulary Learning on Source Code with a Graph-Structured Cache](https://proceedings.mlr.press/v97/cvitkovic19b.html) |Cvitkovic et al.|ICML| [Code](https://github.com/mwcvitkovic/Open-Vocabulary-Learning-on-Source-Code-with-a-Graph-Structured-Cache)                 | <center>Y</center> |
 | 2020 | [Big code!= big vocabulary: Open-vocabulary models for source code](https://arxiv.org/abs/2003.07914) |Karampatsis et al.|ICSE| [Code](https://github.com/mast-group/OpenVocabCodeNLM)                 | <center>Y</center> |
 | 2021 | [A Simple Approach for Handling Out-of-Vocabulary Identifiers in Deep Learning for Source Code](https://arxiv.org/abs/2010.12663) |Chirkova et al.|NAACL| [Code](https://github.com/bayesgroup/code_transformers)                 | <center>Y</center> |
 
 ### *Multi-Lingual and Cross-Language*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- 
 | 2021 | [Disentangled Code Representation Learning for Multiple Programming Languages](https://aclanthology.org/2021.findings-acl.391.pdf) |Zhang et al.|ACL| Code                 | <center>Y</center> |
 | 2022 | [Multilingual training for Software Engineering](https://arxiv.org/abs/2112.02043) |Ahmed et al.|ICSE| Code                 | <center>Y</center> |
@@ -369,7 +369,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | 2022 | [Cross-Language Binary-Source Code Matching with Intermediate Representations](https://arxiv.org/abs/2201.07420) |Gui et al.|SANER| Code                 | <center>Y</center> |
 
 ### *Model Interpretability*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2021 | [Vulnerability Detection with Fine-grained Interpretations](https://arxiv.org/abs/2106.10478) |Li et al.|FSE| [Code](https://github.com/vulnerabilitydetection/VulnerabilityDetectionResearch)                 | <center>Y</center> |
 | 2021 | [Interpreting deep learning-based vulnerability detector predictions based on heuristic searching](https://dl.acm.org/doi/abs/10.1145/3429444) |Zou et al.|TOSEM| Code                 | <center>Y</center> |
@@ -378,7 +378,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 
 
 ### *Robustness and Security*
-| Year | Title                                                        | Author                | Venue                | Code                                                         | In Survey |
+| Year | Title                                                        | Author                | Venue                | Code                                                         | Surveyed |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2017 | [Towards evaluating the robustness of neural networks](https://arxiv.org/abs/1608.04644) |Carlini et al.|SP| Code                 | <center>Y</center> |
 | 2018 | [Robust physical-world attacks on deep learning visual classification](https://store.computer.org/csdl/proceedings-article/cvpr/2018/642000b625/17D45W9KVJT) |Eykholt et al.|CVPR| Code                 | <center>Y</center> |
