@@ -1,4 +1,4 @@
-# awaresome-code-intelligence
+# awesome-code-intelligence
 
 A list of papers in code-intelligence. 
 
