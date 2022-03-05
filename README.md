@@ -4,12 +4,6 @@
 
 A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to code intelligence, which is about leverages machine learning and data mining techniques to mine knowledge from large-scale code corpus by developing intelligent tools to improve the quality and productivity of computer programming.
 
-<style scoped>
-table {
-  font-size: 12px;
-}
-</style>
-
 ## Related Survey
 | Year | Title                                                        | Author                | Venue                | Code                                                         |In |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
