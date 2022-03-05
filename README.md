@@ -4,6 +4,12 @@
 
 A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to code intelligence, which is about leverages machine learning and data mining techniques to mine knowledge from large-scale code corpus by developing intelligent tools to improve the quality and productivity of computer programming.
 
+<style scoped>
+table {
+  font-size: 12px;
+}
+</style>
+
 ## Related Survey
 | Year | Title                                                        | Author                | Venue                | Code                                                         |In |
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
@@ -154,7 +160,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 | ---- | ------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------ | --------- |
 | 2018 | [MaxSMT-based type inference for Python 3](https://link.springer.com/chapter/10.1007/978-3-319-96142-2_2) |Hassan et al.|CAV| Code                 | <center>Y</center> |
 | 2004 | [Faster than C: Static type inference with Starkiller](http://michael.salib.com/writings/talks/Pycon2004/paper.pdf) |Salib et al.|PyCon Proceedings| Code                 | <center>Y</center> |
-| 2015 | [Predicting program properties from big code](https://dl.acm.org/doi/abs/10.1145/3306204) |Raychev et al.|ACM SIGPLAN NOTICES| Code                 | <center>Y</center> |
+| 2015 | [Predicting program properties from big code](https://dl.acm.org/doi/abs/10.1145/3306204) |Raychev et al.|Communications of the ACM| Code                 | <center>Y</center> |
 | 2016 | [Python probabilistic type inference with natural language support](https://dl.acm.org/doi/abs/10.1145/2950290.2950343) |Xu et al.|FSE| Code                 | <center>Y</center> |
 | 2018 | [Deep learning type inference](https://dl.acm.org/doi/abs/10.1145/3236024.3236051) |Hellendoorn et al.|FSE| [Code](https://github.com/DeepTyper/DeepTyper)                 | <center>Y</center> |
 | 2019 | [NL2Type: Inferring JavaScript Function Types from Natural Language Information](https://ieeexplore.ieee.org/abstract/document/8811893) |Malik et al.|ICSE| [Code](https://github.com/sola-da/NL2Type)                 | <center>Y</center> |
